@@ -1,4 +1,4 @@
 {
-    "token": "NzMxNTM3MjI1ODg3NTE0Njg0.XwnfyA.mpUBLrGwXqrsq1FW8-zSfaN9b30",
+    "token": "process.env.token",
     "ownerid": "701058739624738876"
 }
